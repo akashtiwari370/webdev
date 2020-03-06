@@ -9,6 +9,6 @@ anchor(a)->this tag with href attribute is used to link web pages.And with name 
 table(th,td,tr)->these tags are used to make tables on a web page.<br>
 style->This tag is used to do the styling of the web page.<br>
 span->This tag is used with style tag to style the page.<br>
-(sub,sup,b,i)->These tags are used to make text subscript,superscript,bold and italics.
-![](images/donuts.jgp
+(sub,sup,b,i)->These tags are used to make text subscript,superscript,bold and italics.<br>
+![](images/donuts.jgp)
   
