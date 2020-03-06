@@ -10,5 +10,6 @@ table(th,td,tr)->these tags are used to make tables on a web page.<br>
 style->This tag is used to do the styling of the web page.<br>
 span->This tag is used with style tag to style the page.<br>
 (sub,sup,b,i)->These tags are used to make text subscript,superscript,bold and italics.<br>
-<img src="https://github.com/akashtiwari370/webdev/tree/master/images/donuts.jpg">
+![donuts](https://user-images.githubusercontent.com/54893915/76102052-6a1af800-5ff5-11ea-9675-43bec975c909.jpg)
+
   
