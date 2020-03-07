@@ -15,6 +15,14 @@ table(th,td,tr)->these tags are used to make tables on a web page.<br>
 style->This tag is used to do the styling of the web page.<br>
 span->This tag is used with style tag to style the page.<br>
 (sub,sup,b,i)->These tags are used to make text subscript,superscript,bold and italics.<br>
-![donuts](https://user-images.githubusercontent.com/54893915/76102052-6a1af800-5ff5-11ea-9675-43bec975c909.jpg)
+![donuts](https://user-images.githubusercontent.com/54893915/76102052-6a1af800-5ff5-11ea-9675-43bec975c909.jpg)<br><br>
+(video,audio)->These tags along with src tag are used to include videos and audio clipsto webpages.<br>
+![video and audio](https://user-images.githubusercontent.com/54893915/76148176-c51e1f00-60c9-11ea-9a3e-5251b479afc5.jpg)
+<br><br>
+(form,label,input,option)->All these tags are used to make and enhance the forms along with attributes like type,name,placeholder.
+<br>
+![form](https://user-images.githubusercontent.com/54893915/76149086-33fb7800-60ca-11ea-80d4-e009c21fddb8.jpg)
+<br>
+
 
   
