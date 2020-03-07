@@ -4,9 +4,44 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        body{
+            background: url(geu.jpg);
+           
+            background-repeat: no-repeat;
+            size: 100pc;
+        }
+        .head{
+            text-align: right;
+            background-color:rgba(22, 247, 247, 0.781);
+            color: rgb(17, 14, 14);
+            margin-left: 1000px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            text-align: center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            
+
+        }
+        .entry{
+            padding-bottom: 10px;
+            padding-top: 10px;
+            text-align: right;
+            background-color: rgb(234, 240, 239);
+            margin-left: 1000px;
+            text-align: left;
+            padding-left: 20px;
+        }
+
+
+
+
+    </style>
 </head>
-<body>
-    <h2>Forms</h2>
+<body >
+    <br><br>
+    <div class="head"><h2>Form</h2></div>
+    <div class="entry">
     <form>
         <input type="text" placeholder="FirstName" required>
         <input type="text" placeholder="LastName" required><br><br>
@@ -35,7 +70,11 @@
             <option value="germany">germany</option>
         </select><br><br>
         <input type="password" placeholder="Password" required><br><br>
+        <label>
+            <input type="checkbox" name="terms" value="yes">I have read all terms.!
+        </label><br><br>
         <input type="submit">
     </form>
+</div>
 </body>
 </html>
