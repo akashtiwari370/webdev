@@ -6,12 +6,35 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>forms</h2>
+    <h2>Forms</h2>
     <form>
         <input type="text" placeholder="FirstName" required>
         <input type="text" placeholder="LastName" required><br><br>
         <input type="number" placeholder="Phone" required><br><br>
         <input type="email" placeholder="Email-Id" required><br><br>
+        <label>
+            Select Gender
+            <label>
+                Male:<input type="radio" name="genderChoice" value="Male">
+            </label>
+            <label>
+                Female:<input type="radio" name="genderChoice" value="Female">
+            </label>
+            <label>
+                Other:<input type="radio" name="genderChoice" value="Other">
+            </label>
+        </label><br><br>
+       <label>
+           Date Of Birth <input type="date" value="DOB"><br><br>
+       </label>
+        <select name="Country">
+            <option value="japan">Japan</option>
+            <option value="India">India</option>
+            <option value="pakistan">pakistan</option>
+            <option value="USA"> USA</option>
+            <option value="germany">germany</option>
+        </select><br><br>
+        <input type="password" placeholder="Password" required><br><br>
         <input type="submit">
     </form>
 </body>
