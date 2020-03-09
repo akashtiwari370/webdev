@@ -22,6 +22,10 @@ span->This tag is used with style tag to style the page.<br>
 (form,label,input,option)->All these tags are used to make and enhance the forms along with attributes like type,name,placeholder.
 <br>
 ![form](https://user-images.githubusercontent.com/54893915/76149086-33fb7800-60ca-11ea-80d4-e009c21fddb8.jpg)
+<br><br>
+<h1>CSS</h1>
+(div,id,class)->these are the basics of css. div is used forr grouping elements,class is an attribute used to give name to any div,id is also a type of class it can be accessed using #.<br><br>
+![css](https://user-images.githubusercontent.com/54893915/76243221-00e9ed80-625e-11ea-808a-75a041658a4e.jpg)
 <br>
 
 
