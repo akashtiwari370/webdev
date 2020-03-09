@@ -23,10 +23,15 @@ span->This tag is used with style tag to style the page.<br>
 <br>
 ![form](https://user-images.githubusercontent.com/54893915/76149086-33fb7800-60ca-11ea-80d4-e009c21fddb8.jpg)
 <br><br>
-<h1>CSS</h1><br>
-(div,id,class)->these are the basics of css. div is used forr grouping elements,class is an attribute used to give name to any div,id is also a type of class it can be accessed using (#).<br>
 
+
+
+CSS
 <br>
+(div,id,class)->these are the basics of css. div is used forr grouping elements,class is an attribute used to give name to any div,id is also a type of class it can be accessed using (#).
+<br>
+![web](https://user-images.githubusercontent.com/54893915/76244058-5c68ab00-625f-11ea-9831-e87df333e5a3.jpg)
+<br><br>
 
 
   
